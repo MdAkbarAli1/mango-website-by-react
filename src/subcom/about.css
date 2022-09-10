@@ -1,0 +1,43 @@
+.aboutmango{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-around;
+    background-color:  #b8ecd0;
+    height: 180px;
+    width: 100%;
+    
+    
+}
+.aboutmango1{
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    color: #0b0b0d;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #b8ecd0;
+    width: 50%;
+    text-align: center;
+    box-shadow: 3px 2px 7px 1px red ;
+
+}
+.aboutmango2{
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    color: 	 #0b0b0d;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:  #b8ecd0;
+    width: 50%;
+    text-align: center;
+    box-shadow: 3px 2px 7px 1px red ;
+}
+.aboutmango3{
+
+    margin: opx;
+    padding: 20px;
+    background-color: #b8ecd0;
+
+}

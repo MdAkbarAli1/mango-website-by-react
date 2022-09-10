@@ -1,0 +1,41 @@
+.contact5{
+    background-color: rgb(122, 182, 141);
+    padding: 23px;
+    margin: 0px;
+    height: 100%;
+}
+.sos1{
+    background-color:black;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    color: white;
+    
+    align-items: center;
+}
+.sos2{
+    background-color:rgb(241, 239, 235);
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.sos3{
+    background-color:cyan;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.sos4{
+    background-color:rgb(3, 56, 30);
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.Sos5{
+    /* text-align: center; */
+    width: 100%;
+    padding: 20px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+}
